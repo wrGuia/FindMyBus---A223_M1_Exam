@@ -1,0 +1,5 @@
+streamlit>=1.31
+pydeck>=0.8
+pandas>=2.0
+streamlit-autorefresh>=1.0.1
+requests>=2.31
