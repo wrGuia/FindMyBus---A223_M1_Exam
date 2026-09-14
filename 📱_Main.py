@@ -5,8 +5,6 @@ init_fleet()
 simulate_tick()  # keep the simulated fleet moving even on the home page
 st.title("🚌 FindMyBus")
 st.caption("Real-Time Smart Bus Tracking and Route Assistance System — Prototype")
-st.markdown(
-)
 col1, col2 = st.columns(2)
 with col1:
     st.subheader("🧍 Passenger")
